@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development With AI, Java with DSA and System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tisha-Coding](https://github.com/Tisha-Coding)
-
 - 📫 How to reach me **ttisha2528@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/Tisha-Coding/Resume/blob/main/Tisha_Resume.pdf)
