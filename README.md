@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ttisha2528@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/66dd65b476cdbab5c6bf5a3b](https://www.overleaf.com/project/66dd65b476cdbab5c6bf5a3b)
+- 📄 Know about my experiences [Resume](https://github.com/Tisha-Coding/Resume/blob/main/Tisha_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
