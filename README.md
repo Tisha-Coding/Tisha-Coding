@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisha-coding&label=Profile%20views&color=0e75b6&style=flat" alt="tisha-coding" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development With AI, Java with DSA and System Design**
+- 🌱 I’m currently learning **Full Stack Web Development With AI, DSA in JAVA**
 
 - 📫 How to reach me **ttisha2528@gmail.com**
 
