@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ttisha2528@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Tisha-Coding/Tisha_Resume/blob/main/Tisha_Resume.pdf](https://github.com/Tisha-Coding/Tisha_Resume/blob/main/Tisha_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Tisha-Coding/Tisha_Resume/blob/main/Tisha_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
