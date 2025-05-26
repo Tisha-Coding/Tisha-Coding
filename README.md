@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tisha</h1>
-<!-- <h3 align="center">A passionate Full Stack Web developer from India</h3> -->
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisha-coding&label=Profile%20views&color=0e75b6&style=flat" alt="tisha-coding" /> </p>
-
-- 🔭 I’m currently working on **Car Rental Website**
 
 - 🌱 I’m currently learning **Full Stack Web Development With AI, DSA in JAVA**
 
