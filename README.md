@@ -21,23 +21,11 @@
 <br/>
 <br/>
 
-<!-- IDENTITY LINE -->
-
-<p>
-  <b>Full Stack Developer</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>AI-Integrated Apps</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Next.js</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Node.js</b>
-</p>
-
-<br/>
-
 <!-- STATUS LINE -->
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Hire-1E1B4B?style=flat-square&labelColor=1E1B4B&color=10B981" height="22"/>
-&nbsp;·&nbsp;
-<img src="https://img.shields.io/badge/Greater%20Noida%2C%20India-1E1B4B?style=flat-square&labelColor=1E1B4B&color=A78BFA" height="22"/>
-&nbsp;·&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Tisha-Coding&label=Visitors&color=7C3AED&style=flat-square&labelColor=1E1B4B" height="22"/>
-&nbsp;·&nbsp;
-<img src="https://img.shields.io/github/followers/Tisha-Coding?label=Followers&style=flat-square&color=7C3AED&labelColor=1E1B4B&logo=github" height="22"/>
+<p>
+  🟢 &nbsp;<b>Available for Hire</b> &nbsp;&nbsp;·&nbsp;&nbsp; 📍 &nbsp;<b>Greater Noida, India</b> &nbsp;&nbsp;·&nbsp;&nbsp; ✨ &nbsp;<b>Open to Collaborate</b>
+</p>
 
 </div>
 
