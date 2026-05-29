@@ -141,57 +141,40 @@
      TECH STACK
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🧰&nbsp; Tech Stack
+## &nbsp;🧰&nbsp; Tech Stack & Tools
 
-<div align="center">
+*Technologies I use to build scalable full-stack and AI-integrated web applications.*
 
 <br/>
 
-<sub>**FRONTEND**</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,vite&theme=dark" />
+#### &nbsp;🎨 &nbsp; Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,redux,tailwind,vite&theme=dark" />
 
-<br/><br/>
-
-<sub>**BACKEND**</sub>
-<br/>
+#### &nbsp;⚙️ &nbsp; Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
-<img src="https://img.shields.io/badge/REST_APIs-5B21B6?style=for-the-badge&logo=swagger&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Nodemailer-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=for-the-badge&logo=swagger&logoColor=A78BFA" height="48"/>
+<img src="https://img.shields.io/badge/Nodemailer-1E1B4B?style=for-the-badge&logo=minutemailer&logoColor=A78BFA" height="48"/>
 
-<br/><br/>
-
-<sub>**DATABASES**</sub>
-<br/>
+#### &nbsp;🗄️ &nbsp; Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
 
-<br/><br/>
+#### &nbsp;🔐 &nbsp; Auth & Validation
+<img src="https://img.shields.io/badge/JWT-1E1B4B?style=for-the-badge&logo=jsonwebtokens&logoColor=A78BFA" height="40"/>
+<img src="https://img.shields.io/badge/NextAuth-1E1B4B?style=for-the-badge&logo=auth0&logoColor=A78BFA" height="40"/>
+<img src="https://img.shields.io/badge/bcrypt-1E1B4B?style=for-the-badge&logoColor=A78BFA" height="40"/>
+<img src="https://img.shields.io/badge/Zod-1E1B4B?style=for-the-badge&logo=zod&logoColor=A78BFA" height="40"/>
+<img src="https://img.shields.io/badge/Joi-1E1B4B?style=for-the-badge&logoColor=A78BFA" height="40"/>
 
-<sub>**AUTH & VALIDATION**</sub>
-<br/>
-<img src="https://img.shields.io/badge/JWT-1E1B4B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/NextAuth-1E1B4B?style=for-the-badge&logo=auth0&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/bcrypt-5B21B6?style=for-the-badge&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Zod-7C3AED?style=for-the-badge&logo=zod&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Joi-5B21B6?style=for-the-badge&logoColor=white" height="40"/>
-
-<br/><br/>
-
-<sub>**AI & INTEGRATIONS**</sub>
-<br/>
-<img src="https://img.shields.io/badge/Groq_API-5B21B6?style=for-the-badge&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Stripe-7C3AED?style=for-the-badge&logo=stripe&logoColor=white" height="40"/>
+#### &nbsp;🤖 &nbsp; AI & Integrations
+<img src="https://img.shields.io/badge/Groq_API-1E1B4B?style=for-the-badge&logoColor=A78BFA" height="40"/>
+<img src="https://img.shields.io/badge/Stripe-1E1B4B?style=for-the-badge&logo=stripe&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/Razorpay-1E1B4B?style=for-the-badge&logo=razorpay&logoColor=A78BFA" height="40"/>
-<img src="https://img.shields.io/badge/Cloudinary-7C3AED?style=for-the-badge&logo=cloudinary&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Cloudinary-1E1B4B?style=for-the-badge&logo=cloudinary&logoColor=A78BFA" height="40"/>
 
-<br/><br/>
-
-<sub>**TOOLS & DEPLOYMENT**</sub>
-<br/>
+#### &nbsp;🛠️ &nbsp; Tools & Deployment
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark" />
-<img src="https://img.shields.io/badge/Render-5B21B6?style=for-the-badge&logo=render&logoColor=white" height="48"/>
-
-</div>
+<img src="https://img.shields.io/badge/Chrome_DevTools-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" height="48"/>
+<img src="https://img.shields.io/badge/Render-1E1B4B?style=for-the-badge&logo=render&logoColor=A78BFA" height="48"/>
 
 <br/>
 <br/>
