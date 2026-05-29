@@ -87,74 +87,52 @@
 
 ## &nbsp;🚀&nbsp; Full Stack + AI Engineering Focus
 
-<sub><i>Click any focus area to expand and learn more.</i></sub>
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:5B21B6&height=44&section=header&text=01%20%20%20PRODUCT-FOCUSED%20FULL-STACK%20DEVELOPMENT&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+
+<sub>End-to-end ownership — *schema design → REST APIs → polished UI → live deployment*</sub>
 
 <br/>
 <br/>
 
-<details>
-<summary><img src="https://img.shields.io/badge/01-Product--focused%20Full--Stack%20Development-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=02%20%20%20API%20ARCHITECTURE%20%26%20DATA-DRIVEN%20APPS&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+
+<sub>Server-side **pagination · debounced search · DB indexing · normalized schemas**</sub>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:5B21B6&height=44&section=header&text=03%20%20%20AUTHENTICATION%2C%20AUTHORIZATION%20%26%20SECURE%20WORKFLOWS&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+
+<sub>**JWT · NextAuth · bcrypt · Zod validation · RBAC · DB-level ownership checks**</sub>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=04%20%20%20PERFORMANCE-FOCUSED%20FRONTEND%20%26%20BACKEND&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+
+<sub>**Optimistic UI · atomic DB increments · query optimization · debounced sync**</sub>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:5B21B6&height=44&section=header&text=05%20%20%20AI-POWERED%20FEATURE%20INTEGRATION%20WITH%20GROQ%20API&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+
+<sub>**Production AI chatbots with Groq API** · AI-assisted dev with Cursor, Claude & Copilot</sub>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=06%20%20%20CLEAN%20UI%2C%20DASHBOARDS%20%26%20PRODUCTION%20DEPLOYMENT&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+
+<sub>Reusable components · analytics dashboards · **Vercel · Render · Netlify**</sub>
 
 <br/>
 
-> End-to-end ownership — *schema design → REST APIs → polished UI → live deployment*. Building production features that ship and scale, from database schema to user-facing UI.
-
-</details>
-
-<br/>
-
-<details>
-<summary><img src="https://img.shields.io/badge/02-API%20Architecture%20%26%20Data--Driven%20Apps-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
-
-<br/>
-
-> Designing REST APIs with **server-side pagination, debounced search, database indexing, and normalized schemas** for fast, scalable, and maintainable data layers.
-
-</details>
-
-<br/>
-
-<details>
-<summary><img src="https://img.shields.io/badge/03-Authentication%2C%20Authorization%20%26%20Secure%20Workflows-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
-
-<br/>
-
-> Implementing secure auth with **JWT, NextAuth, bcrypt password hashing, Zod validation, RBAC, and DB-level ownership checks** that prevent privilege escalation.
-
-</details>
-
-<br/>
-
-<details>
-<summary><img src="https://img.shields.io/badge/04-Performance--Focused%20Frontend%20%26%20Backend-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
-
-<br/>
-
-> Engineering for speed with **optimistic UI updates, atomic DB increments, query optimization, and debounced progress sync** — zero perceived latency, even under concurrent traffic.
-
-</details>
-
-<br/>
-
-<details>
-<summary><img src="https://img.shields.io/badge/05-AI--Powered%20Feature%20Integration%20with%20Groq%20API-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
-
-<br/>
-
-> Shipping **production AI chatbots with Groq API** for real-time product & order queries. Daily AI-assisted dev workflows with **Cursor, Claude, GitHub Copilot, and Perplexity**.
-
-</details>
-
-<br/>
-
-<details>
-<summary><img src="https://img.shields.io/badge/06-Clean%20UI%2C%20Dashboards%20%26%20Production%20Deployment-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
-
-<br/>
-
-> Building **reusable components, analytics dashboards, and pixel-precise responsive UIs** with Tailwind CSS. Deploying to production via **Vercel, Render, and Netlify** with CI-ready workflows.
-
-</details>
+</div>
 
 <br/>
 <br/>
