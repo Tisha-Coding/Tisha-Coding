@@ -529,31 +529,12 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 <br/>
 
 ```mermaid
----
-config:
-    xyChart:
-        width: 900
-        height: 360
-        titleFontSize: 20
-        chartOrientation: horizontal
-        plotReservedSpacePercent: 80
-    themeVariables:
-        xyChart:
-            backgroundColor: "#1E1B4B"
-            titleColor: "#A78BFA"
-            xAxisLabelColor: "#FFFFFF"
-            xAxisTitleColor: "#A78BFA"
-            xAxisLineColor: "#5B21B6"
-            yAxisLabelColor: "#FFFFFF"
-            yAxisTitleColor: "#A78BFA"
-            yAxisLineColor: "#5B21B6"
-            plotColorPalette: "#A78BFA, #7C3AED, #5B21B6"
----
-xychart-beta horizontal
-    title "LeetCode Progress — Problems Solved by Difficulty"
-    x-axis "Solved Count" 0 --> 30
-    y-axis ["Hard (0/937)", "Medium (0/2061)", "Easy (25/946)"]
-    bar [0, 0, 25]
+%%{init: {'theme':'base', 'themeVariables': {'xyChart': {'backgroundColor':'#1E1B4B','titleColor':'#A78BFA','xAxisLabelColor':'#FFFFFF','xAxisTitleColor':'#A78BFA','xAxisLineColor':'#5B21B6','yAxisLabelColor':'#FFFFFF','yAxisTitleColor':'#A78BFA','yAxisLineColor':'#5B21B6','plotColorPalette':'#7C3AED'}}}}%%
+xychart-beta
+    title "LeetCode Progress by Difficulty"
+    x-axis [Easy, Medium, Hard]
+    y-axis "Problems Solved" 0 --> 30
+    bar [25, 0, 0]
 ```
 
 <br/>
