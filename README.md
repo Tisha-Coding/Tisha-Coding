@@ -2,9 +2,11 @@
      HERO — White + Dark Purple Premium Header
 ═════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Tisha-Coding">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=200&section=header&text=FULL%20STACK%20%2B%20AI%20DEVELOPER&fontSize=42&fontAlignY=42&fontColor=FFFFFF&desc=Building%20scalable%20web%20apps%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=68&descAlign=50&descSize=15&animation=twinkling" width="100%"/>
-</a>
+<div align="center">
+  <a href="https://github.com/Tisha-Coding">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=150&section=header&text=FULL%20STACK%20%2B%20AI%20DEVELOPER&fontSize=32&fontAlignY=42&fontColor=FFFFFF&desc=Building%20scalable%20web%20apps%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=70&descAlign=50&descSize=13&animation=twinkling" width="92%"/>
+  </a>
+</div>
 
 <div align="center">
 
