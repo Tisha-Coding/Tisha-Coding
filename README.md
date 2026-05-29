@@ -1,25 +1,25 @@
 <!-- ════════════════════════════════════════════════════════════════
-     HERO — Premium Landing-Page Header
+     HERO — White + Dark Purple Premium Header
 ═════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Tisha-Coding">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:2563EB,70:0EA5E9,100:60A5FA&height=200&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=180&section=header&text=Tisha&fontSize=72&fontAlignY=42&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI-Integrated%20Web%20Apps&descAlignY=72&descAlign=50&descSize=16&animation=fadeIn" width="100%"/>
 </a>
 
 <div align="center">
 
-<h1>
-  Hi, I'm Tisha &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" width="36"/>
-</h1>
+<h2>
+  Hi, I'm Tisha &nbsp;👋
+</h2>
 
-<h3>
-  <samp>Full Stack Developer building scalable web apps with AI-powered experiences.</samp>
-</h3>
+<h4>
+  <i>Full Stack Developer building scalable web apps with AI-powered experiences.</i>
+</h4>
 
 <br/>
 
 <a href="https://github.com/Tisha-Coding">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=820&height=46&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Prisma+%E2%80%A2+REST+APIs;AI-integrated+Web+Applications+with+Groq+API" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=5B21B6&center=true&vCenter=true&width=820&height=46&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Prisma+%E2%80%A2+REST+APIs;AI-integrated+Web+Applications+with+Groq+API" alt="Typing animation" />
 </a>
 
 <br/>
@@ -27,15 +27,15 @@
 
 <!-- IDENTITY BADGES -->
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-2563EB?style=flat-square&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/AI--integrated%20Apps-4F46E5?style=flat-square&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/React.js-0EA5E9?style=flat-square&logo=react&logoColor=white&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/Node.js-0EA5E9?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/MongoDB-2563EB?style=flat-square&logo=mongodb&logoColor=white&labelColor=0F172A" height="26"/>
-<img src="https://img.shields.io/badge/Groq%20API-4F46E5?style=flat-square&labelColor=0F172A" height="26"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-5B21B6?style=flat-square&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/AI--integrated%20Apps-7C3AED?style=flat-square&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/React.js-5B21B6?style=flat-square&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/Node.js-5B21B6?style=flat-square&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=flat-square&logo=postgresql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white&labelColor=1E1B4B" height="26"/>
+<img src="https://img.shields.io/badge/Groq%20API-5B21B6?style=flat-square&labelColor=1E1B4B" height="26"/>
 
 <br/>
 <br/>
@@ -43,23 +43,23 @@
 <!-- CTA BUTTONS -->
 
 <a href="https://portfolio-six-rho-73.vercel.app/">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20Portfolio-2563EB?style=for-the-badge&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Portfolio-5B21B6?style=for-the-badge&logoColor=white" height="34"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/tisha-3835a8319/">
-  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
 </a>
 &nbsp;
 <a href="https://github.com/Tisha-Coding">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="34"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="34"/>
 </a>
 &nbsp;
 <a href="mailto:ttisha2528@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
+  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
 </a>
 
 <br/>
@@ -67,13 +67,13 @@
 
 <!-- STATUS LINE -->
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Hire-0F172A?style=flat-square&labelColor=0F172A&color=10B981" height="22"/>
+<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Hire-1E1B4B?style=flat-square&labelColor=1E1B4B&color=10B981" height="22"/>
 &nbsp;·&nbsp;
-<img src="https://img.shields.io/badge/Greater%20Noida%2C%20India-0F172A?style=flat-square&labelColor=0F172A&color=64748B" height="22"/>
+<img src="https://img.shields.io/badge/Greater%20Noida%2C%20India-1E1B4B?style=flat-square&labelColor=1E1B4B&color=A78BFA" height="22"/>
 &nbsp;·&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Tisha-Coding&label=Visitors&color=2563EB&style=flat-square&labelColor=0F172A" height="22"/>
+<img src="https://komarev.com/ghpvc/?username=Tisha-Coding&label=Visitors&color=7C3AED&style=flat-square&labelColor=1E1B4B" height="22"/>
 &nbsp;·&nbsp;
-<img src="https://img.shields.io/github/followers/Tisha-Coding?label=Followers&style=flat-square&color=2563EB&labelColor=0F172A&logo=github" height="22"/>
+<img src="https://img.shields.io/github/followers/Tisha-Coding?label=Followers&style=flat-square&color=7C3AED&labelColor=1E1B4B&logo=github" height="22"/>
 
 </div>
 
@@ -107,42 +107,42 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/01-Product--focused%20Full--Stack%20Development-2563EB?style=for-the-badge&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/01-Product--focused%20Full--Stack%20Development-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/>
 
 <sub>End-to-end ownership — *schema design → REST APIs → polished UI → live deployment*</sub>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/02-API%20Architecture%20%26%20Data--Driven%20Apps-0EA5E9?style=for-the-badge&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/02-API%20Architecture%20%26%20Data--Driven%20Apps-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/>
 
 <sub>Server-side **pagination · debounced search · DB indexing · normalized schemas**</sub>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/03-Authentication%2C%20Authorization%20%26%20Secure%20Workflows-4F46E5?style=for-the-badge&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/03-Authentication%2C%20Authorization%20%26%20Secure%20Workflows-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/>
 
 <sub>**JWT · NextAuth · bcrypt · Zod validation · RBAC · DB-level ownership checks**</sub>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/04-Performance--Focused%20Frontend%20%26%20Backend-2563EB?style=for-the-badge&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/04-Performance--Focused%20Frontend%20%26%20Backend-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/>
 
 <sub>**Optimistic UI · atomic DB increments · query optimization · debounced sync**</sub>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/05-AI--Powered%20Feature%20Integration%20with%20Groq%20API-0EA5E9?style=for-the-badge&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/05-AI--Powered%20Feature%20Integration%20with%20Groq%20API-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/>
 
 <sub>**Production AI chatbots with Groq API** · AI-assisted dev with Cursor, Claude & Copilot</sub>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/06-Clean%20UI%2C%20Dashboards%20%26%20Production%20Deployment-4F46E5?style=for-the-badge&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/06-Clean%20UI%2C%20Dashboards%20%26%20Production%20Deployment-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/>
 
 <sub>Reusable components · analytics dashboards · **Vercel · Render · Netlify**</sub>
 
@@ -165,47 +165,47 @@
 
 <sub>**FRONTEND**</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,vite&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,vite&theme=dark" />
 
 <br/><br/>
 
 <sub>**BACKEND**</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=light" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=swagger&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Nodemailer-2563EB?style=for-the-badge&logo=minutemailer&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+<img src="https://img.shields.io/badge/REST_APIs-5B21B6?style=for-the-badge&logo=swagger&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Nodemailer-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" height="48"/>
 
 <br/><br/>
 
 <sub>**DATABASES**</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
 
 <br/><br/>
 
 <sub>**AUTH & VALIDATION**</sub>
 <br/>
-<img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/NextAuth-0F172A?style=for-the-badge&logo=auth0&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/bcrypt-2563EB?style=for-the-badge&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Joi-0EA5E9?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/JWT-1E1B4B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/NextAuth-1E1B4B?style=for-the-badge&logo=auth0&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/bcrypt-5B21B6?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Zod-7C3AED?style=for-the-badge&logo=zod&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Joi-5B21B6?style=for-the-badge&logoColor=white" height="40"/>
 
 <br/><br/>
 
 <sub>**AI & INTEGRATIONS**</sub>
 <br/>
-<img src="https://img.shields.io/badge/Groq_API-2563EB?style=for-the-badge&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Stripe-4F46E5?style=for-the-badge&logo=stripe&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Razorpay-0F172A?style=for-the-badge&logo=razorpay&logoColor=3395FF" height="40"/>
-<img src="https://img.shields.io/badge/Cloudinary-0EA5E9?style=for-the-badge&logo=cloudinary&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Groq_API-5B21B6?style=for-the-badge&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Stripe-7C3AED?style=for-the-badge&logo=stripe&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Razorpay-1E1B4B?style=for-the-badge&logo=razorpay&logoColor=A78BFA" height="40"/>
+<img src="https://img.shields.io/badge/Cloudinary-7C3AED?style=for-the-badge&logo=cloudinary&logoColor=white" height="40"/>
 
 <br/><br/>
 
 <sub>**TOOLS & DEPLOYMENT**</sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=light" />
-<img src="https://img.shields.io/badge/Render-2563EB?style=for-the-badge&logo=render&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark" />
+<img src="https://img.shields.io/badge/Render-5B21B6?style=for-the-badge&logo=render&logoColor=white" height="48"/>
 
 </div>
 
@@ -264,18 +264,18 @@ A **high-performance cross-media content platform** combining short-form videos 
 <p>
   <a href="https://pulse-feed-git-main-tishas-projects-a05cea24.vercel.app/">
     <!-- Add PulseFeed live demo link here -->
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-2563EB?style=for-the-badge&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-5B21B6?style=for-the-badge&logoColor=white" height="32"/>
   </a>
   &nbsp;
   <a href="https://github.com/Tisha-Coding/PulseFeed">
     <!-- Add PulseFeed GitHub repo link here -->
-    <img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Source%20Code-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,50:DBEAFE,100:EFF6FF&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,50:EDE9FE,100:F5F3FF&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -298,18 +298,18 @@ A **production-grade full-stack e-commerce platform** with separate customer + a
 <p>
   <a href="https://ecommerce-advanced-pink.vercel.app/">
     <!-- Add E-Commerce live demo link here -->
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-2563EB?style=for-the-badge&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-5B21B6?style=for-the-badge&logoColor=white" height="32"/>
   </a>
   &nbsp;
   <a href="https://github.com/Tisha-Coding/ecommerce-advanced">
     <!-- Add E-Commerce GitHub repo link here -->
-    <img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Source%20Code-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,50:DBEAFE,100:EFF6FF&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,50:EDE9FE,100:F5F3FF&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -332,12 +332,12 @@ A **full-stack project management platform** with role-based access control for 
 <p>
   <a href="https://team-task-manager-lovat.vercel.app/signup">
     <!-- Add Team Task Manager live demo link here -->
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-2563EB?style=for-the-badge&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-5B21B6?style=for-the-badge&logoColor=white" height="32"/>
   </a>
   &nbsp;
   <a href="https://github.com/Tisha-Coding/Team-Task-Manager">
     <!-- Add Team Task Manager GitHub repo link here -->
-    <img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Source%20Code-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 
@@ -396,12 +396,12 @@ I'm not just a frontend developer — I build **complete, production-ready syste
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=2563EB&icon_color=0EA5E9&text_color=334155&ring_color=2563EB" alt="Tisha's GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=FFFFFF&stroke=2563EB&ring=2563EB&fire=0EA5E9&currStreakLabel=2563EB&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A" alt="Tisha's Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&ring_color=5B21B6" alt="Tisha's GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=FFFFFF&stroke=5B21B6&ring=5B21B6&fire=7C3AED&currStreakLabel=5B21B6&sideLabels=1E1B4B&dates=A78BFA&currStreakNum=1E1B4B&sideNums=1E1B4B" alt="Tisha's Streak" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&langs_count=8&card_width=500" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=5B21B6&text_color=1E1B4B&langs_count=8&card_width=500" alt="Top Languages" />
 
 <br/><br/>
 
@@ -409,7 +409,7 @@ I'm not just a frontend developer — I build **complete, production-ready syste
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha-Coding&bg_color=FFFFFF&color=2563EB&line=0EA5E9&point=0F172A&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha-Coding&bg_color=FFFFFF&color=5B21B6&line=7C3AED&point=1E1B4B&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -433,7 +433,7 @@ I'm not just a frontend developer — I build **complete, production-ready syste
 <br/><br/>
 
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
 </a>
 
 </div>
@@ -475,23 +475,23 @@ Let's collaborate, build something meaningful, or just chat about tech.
 <br/><br/>
 
 <a href="https://portfolio-six-rho-73.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/tisha-3835a8319/">
-  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
 </a>
 &nbsp;
 <a href="https://github.com/Tisha-Coding">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="38"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
 </a>
 &nbsp;
 <a href="mailto:ttisha2528@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
 </a>
 
 </div>
@@ -503,7 +503,7 @@ Let's collaborate, build something meaningful, or just chat about tech.
      FOOTER
 ═════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,30:0EA5E9,70:2563EB,100:0F172A&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,30:7C3AED,70:4C1D95,100:1E1B4B&height=130&section=footer" width="100%"/>
 
 <div align="center">
   <h4>Building scalable products with clean UI, strong backend logic, and AI-powered experiences.</h4>
