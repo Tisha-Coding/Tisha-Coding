@@ -529,12 +529,31 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 <br/>
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'pie1':'#5B21B6','pie2':'#7C3AED','pie3':'#A78BFA','pieTitleTextSize':'22px','pieTitleTextColor':'#5B21B6','pieSectionTextSize':'16px','pieSectionTextColor':'#FFFFFF','pieOuterStrokeWidth':'2px','pieOuterStrokeColor':'#1E1B4B','pieStrokeColor':'#1E1B4B','pieStrokeWidth':'2px','pieLegendTextSize':'14px','pieLegendTextColor':'#5B21B6'}}}%%
-pie showData
-  title  LeetCode Problem Landscape (Total Available)
-  "Easy" : 946
-  "Medium" : 2061
-  "Hard" : 937
+---
+config:
+    xyChart:
+        width: 900
+        height: 360
+        titleFontSize: 20
+        chartOrientation: horizontal
+        plotReservedSpacePercent: 80
+    themeVariables:
+        xyChart:
+            backgroundColor: "#1E1B4B"
+            titleColor: "#A78BFA"
+            xAxisLabelColor: "#FFFFFF"
+            xAxisTitleColor: "#A78BFA"
+            xAxisLineColor: "#5B21B6"
+            yAxisLabelColor: "#FFFFFF"
+            yAxisTitleColor: "#A78BFA"
+            yAxisLineColor: "#5B21B6"
+            plotColorPalette: "#A78BFA, #7C3AED, #5B21B6"
+---
+xychart-beta horizontal
+    title "LeetCode Progress — Problems Solved by Difficulty"
+    x-axis "Solved Count" 0 --> 30
+    y-axis ["Hard (0/937)", "Medium (0/2061)", "Easy (25/946)"]
+    bar [0, 0, 25]
 ```
 
 <br/>
@@ -592,13 +611,33 @@ pie showData
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=620&height=60&lines=%F0%9F%8E%93+Education+%26+Achievements" alt="Education heading"/>
 </h2>
 
+<p align="center">
+  <i>A consistent academic record — from school medals to university ranks.</i>
+</p>
+
 <br/>
 
-#### &nbsp;🎓 &nbsp; Education
+<!-- Quick Highlights Strip -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%20%20Gold%20Medalist%20(Class%2010)-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%20%202nd%20University%20Rank-1E1B4B?style=for-the-badge&labelColor=7C3AED&color=1E1B4B" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%88%20%20MCA%20CGPA%209.53-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" height="32"/>
+
+</div>
+
+<br/>
+<br/>
+
+#### &nbsp;🎓 &nbsp; Education Journey
 
 &nbsp;&nbsp;&nbsp; **Master of Computer Applications (MCA)** &nbsp;·&nbsp; Thapar Institute of Engineering & Technology &nbsp;·&nbsp; <img src="https://img.shields.io/badge/CGPA%20%C2%B7%209.53-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/>
 
 &nbsp;&nbsp;&nbsp; **Bachelor of Computer Applications (BCA)** &nbsp;·&nbsp; Government College for Girls, Ludhiana &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Score%20%C2%B7%2093.1%25-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/>
+
+&nbsp;&nbsp;&nbsp; **Class 10 (Secondary)** &nbsp;·&nbsp; <img src="https://img.shields.io/badge/%F0%9F%A5%87%20Gold%20Medalist-1E1B4B?style=flat&labelColor=7C3AED&color=1E1B4B" height="22"/> &nbsp;— for academic excellence
 
 <br/>
 
@@ -607,6 +646,8 @@ pie showData
 &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/2nd%20University%20Rank-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/> &nbsp;at Panjab University during BCA
 
 &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Merit--Based%20Scholarship-1E1B4B?style=flat&labelColor=7C3AED&color=1E1B4B" height="22"/> &nbsp;awarded throughout BCA program
+
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Class%2010%20Gold%20Medal-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/> &nbsp;for outstanding academic performance in secondary school
 
 <br/>
 
