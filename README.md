@@ -3,14 +3,14 @@
 ═════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Tisha-Coding">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=180&section=header&text=Tisha&fontSize=72&fontAlignY=42&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI-Integrated%20Web%20Apps&descAlignY=72&descAlign=50&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=180&section=header&animation=twinkling" width="100%"/>
 </a>
 
 <div align="center">
 
-<h2>
-  Hi, I'm Tisha &nbsp;👋
-</h2>
+<a href="https://github.com/Tisha-Coding">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=88&duration=2800&pause=2500&color=5B21B6&center=true&vCenter=true&width=600&height=110&lines=Hi%2C+I'm+Tisha+%E2%9C%A8;Tisha+%F0%9F%91%8B" alt="Tisha signature" />
+</a>
 
 <h4>
   <i>Full Stack Developer building scalable web apps with AI-powered experiences.</i>
