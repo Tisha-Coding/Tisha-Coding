@@ -512,22 +512,42 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 </h2>
 
 <p align="center">
-  <i>Strengthening DSA fundamentals through consistent problem solving.</i>
+  <i>Strengthening DSA fundamentals through consistent problem solving — one problem at a time.</i>
 </p>
 
 <br/>
 
 <div align="center">
 
+<!-- Top decorative badge row -->
+<p>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20%20Daily%20Practice-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="28"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%88%20%20Consistent%20Growth-1E1B4B?style=flat&labelColor=7C3AED&color=1E1B4B" height="28"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20%20DSA%20Focus-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="28"/>
+</p>
+
+<br/>
+
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=dark&font=Inter&border=0&radius=14&ext=heatmap" width="60%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=dark&font=Inter&border=2&radius=14&ext=heatmap&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&iconColor=A78BFA" width="58%" alt="LeetCode Stats"/>
 </a>
 
 <br/>
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,50:7C3AED,100:5B21B6&height=3&section=header" width="58%"/>
+
+<br/>
+<br/>
+
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode%20%E2%86%92-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="42"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20View%20My%20LeetCode%20Profile-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="42"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20%20Let's%20Solve%20Together-7C3AED?style=for-the-badge&logoColor=FFFFFF&labelColor=1E1B4B" height="42"/>
 </a>
 
 </div>
