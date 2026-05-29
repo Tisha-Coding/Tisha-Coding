@@ -87,52 +87,74 @@
 
 ## &nbsp;🚀&nbsp; Full Stack + AI Engineering Focus
 
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/01-Product--focused%20Full--Stack%20Development-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/>
-
-<sub>End-to-end ownership — *schema design → REST APIs → polished UI → live deployment*</sub>
+<sub><i>Click any focus area to expand and learn more.</i></sub>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/02-API%20Architecture%20%26%20Data--Driven%20Apps-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/>
-
-<sub>Server-side **pagination · debounced search · DB indexing · normalized schemas**</sub>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/03-Authentication%2C%20Authorization%20%26%20Secure%20Workflows-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/>
-
-<sub>**JWT · NextAuth · bcrypt · Zod validation · RBAC · DB-level ownership checks**</sub>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/04-Performance--Focused%20Frontend%20%26%20Backend-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/>
-
-<sub>**Optimistic UI · atomic DB increments · query optimization · debounced sync**</sub>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/05-AI--Powered%20Feature%20Integration%20with%20Groq%20API-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/>
-
-<sub>**Production AI chatbots with Groq API** · AI-assisted dev with Cursor, Claude & Copilot</sub>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/06-Clean%20UI%2C%20Dashboards%20%26%20Production%20Deployment-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/>
-
-<sub>Reusable components · analytics dashboards · **Vercel · Render · Netlify**</sub>
+<details>
+<summary><img src="https://img.shields.io/badge/01-Product--focused%20Full--Stack%20Development-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
 
 <br/>
 
-</div>
+> End-to-end ownership — *schema design → REST APIs → polished UI → live deployment*. Building production features that ship and scale, from database schema to user-facing UI.
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/02-API%20Architecture%20%26%20Data--Driven%20Apps-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
+
+<br/>
+
+> Designing REST APIs with **server-side pagination, debounced search, database indexing, and normalized schemas** for fast, scalable, and maintainable data layers.
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/03-Authentication%2C%20Authorization%20%26%20Secure%20Workflows-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
+
+<br/>
+
+> Implementing secure auth with **JWT, NextAuth, bcrypt password hashing, Zod validation, RBAC, and DB-level ownership checks** that prevent privilege escalation.
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/04-Performance--Focused%20Frontend%20%26%20Backend-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
+
+<br/>
+
+> Engineering for speed with **optimistic UI updates, atomic DB increments, query optimization, and debounced progress sync** — zero perceived latency, even under concurrent traffic.
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/05-AI--Powered%20Feature%20Integration%20with%20Groq%20API-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
+
+<br/>
+
+> Shipping **production AI chatbots with Groq API** for real-time product & order queries. Daily AI-assisted dev workflows with **Cursor, Claude, GitHub Copilot, and Perplexity**.
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/06-Clean%20UI%2C%20Dashboards%20%26%20Production%20Deployment-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="34"/></summary>
+
+<br/>
+
+> Building **reusable components, analytics dashboards, and pixel-precise responsive UIs** with Tailwind CSS. Deploying to production via **Vercel, Render, and Netlify** with CI-ready workflows.
+
+</details>
 
 <br/>
 <br/>
