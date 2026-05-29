@@ -50,30 +50,20 @@ I'm **Tisha** — a **Full Stack Developer** with **1+ year of professional expe
 
 <br/>
 
-#### &nbsp;▸ &nbsp;Full Stack Engineering
+> **🧩 &nbsp;Full Stack Engineering**
+> React.js &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB
 
-&nbsp;&nbsp;&nbsp;&nbsp; **React.js · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB**
-&nbsp;&nbsp;&nbsp;&nbsp; REST APIs &nbsp;·&nbsp; JWT auth &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; database optimization &nbsp;·&nbsp; pagination &nbsp;·&nbsp; debounced search
+> **🤖 &nbsp;AI-Powered Product Features**
+> Production chatbots with **Groq API** &nbsp;·&nbsp; AI-assisted dev workflows with Cursor & Copilot
 
-<br/>
-
-#### &nbsp;▸ &nbsp;AI-Powered Product Features
-
-&nbsp;&nbsp;&nbsp;&nbsp; Shipped **production AI chatbots** with **Groq API** for real-world product queries & order tracking
-&nbsp;&nbsp;&nbsp;&nbsp; AI-assisted workflows with **Cursor · Claude · GitHub Copilot · Perplexity**
-
-<br/>
-
-#### &nbsp;▸ &nbsp;Production-Ready Systems
-
-&nbsp;&nbsp;&nbsp;&nbsp; Analytics dashboards &nbsp;·&nbsp; e-commerce platforms &nbsp;·&nbsp; admin panels
-&nbsp;&nbsp;&nbsp;&nbsp; Real-world integrations — **Stripe · Razorpay · Cloudinary · Nodemailer**
+> **⚙️ &nbsp;Production-Ready Systems**
+> Analytics dashboards &nbsp;·&nbsp; e-commerce platforms &nbsp;·&nbsp; admin panels &nbsp;·&nbsp; Stripe & Razorpay payments
 
 <br/>
 
 🎯 &nbsp;**Currently focused on** &nbsp;—&nbsp; *building scalable full-stack products with AI baked into the user experience.*
 
-💼 &nbsp;**Available for** &nbsp;—&nbsp; *Full Stack & Frontend Developer opportunities. Let's build something meaningful.*
+💼 &nbsp;**Available for** &nbsp;—&nbsp; *Full Stack & Frontend Developer opportunities.*
 
 <br/>
 <br/>
