@@ -2,6 +2,9 @@
      HERO — White + Dark Purple Premium Header
 ═════════════════════════════════════════════════════════════════ -->
 
+<!-- Subtle animated purple background strip -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=70&section=header&animation=twinkling" width="100%"/>
+
 <div align="center">
 
 <a href="https://github.com/Tisha-Coding">
@@ -21,18 +24,18 @@
 <br/>
 <br/>
 
-<!-- STATUS STRIP — Premium SaaS pill style -->
+<!-- STATUS STRIP — Premium SaaS pill style with breathing room -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20Open%20to%20Full%20Stack%20%26%20Frontend%20Roles-5B21B6?style=flat&labelColor=5B21B6" height="32"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%E2%9C%A8%20%20Building%20AI--powered%20Web%20Apps-7C3AED?style=flat&labelColor=7C3AED" height="32"/>
+  <img src="https://img.shields.io/badge/%20%20%F0%9F%92%BC%20%20%20Open%20to%20Full%20Stack%20%26%20Frontend%20Roles%20%20-5B21B6?style=flat&labelColor=5B21B6" height="42"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20%E2%9C%A8%20%20%20Building%20AI--powered%20Web%20Apps%20%20-7C3AED?style=flat&labelColor=7C3AED" height="42"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20%20Based%20in%20India-1E1B4B?style=flat&labelColor=1E1B4B" height="32"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20%20Open%20to%20Collaborate-4C1D95?style=flat&labelColor=4C1D95" height="32"/>
+  <img src="https://img.shields.io/badge/%20%20%F0%9F%93%8D%20%20%20Based%20in%20India%20%20-1E1B4B?style=flat&labelColor=1E1B4B" height="42"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20%20%F0%9F%A4%9D%20%20%20Open%20to%20Collaborate%20%20-4C1D95?style=flat&labelColor=4C1D95" height="42"/>
 </p>
 
 </div>
