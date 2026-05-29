@@ -528,14 +528,44 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 
 <br/>
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'xyChart': {'backgroundColor':'#1E1B4B','titleColor':'#A78BFA','xAxisLabelColor':'#FFFFFF','xAxisTitleColor':'#A78BFA','xAxisLineColor':'#5B21B6','yAxisLabelColor':'#FFFFFF','yAxisTitleColor':'#A78BFA','yAxisLineColor':'#5B21B6','plotColorPalette':'#7C3AED'}}}}%%
-xychart-beta
-    title "LeetCode Progress by Difficulty"
-    x-axis [Easy, Medium, Hard]
-    y-axis "Problems Solved" 0 --> 30
-    bar [25, 0, 0]
-```
+<div align="center">
+
+<!-- Big Total Counter (DYNAMIC) -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.totalSolved&label=%F0%9F%8E%AF%20%20TOTAL%20PROBLEMS%20SOLVED&suffix=%20%2F%203944&style=for-the-badge&color=A78BFA&labelColor=1E1B4B" height="48"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Easy Row (DYNAMIC) -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.easySolved&label=%F0%9F%9F%A2%20%20EASY&suffix=%20%2F%20946&style=for-the-badge&color=5B21B6&labelColor=1E1B4B" height="42"/>
+</a>
+
+<br/>
+
+<!-- Medium Row (DYNAMIC) -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.mediumSolved&label=%F0%9F%9F%A1%20%20MEDIUM&suffix=%20%2F%202061&style=for-the-badge&color=7C3AED&labelColor=1E1B4B" height="42"/>
+</a>
+
+<br/>
+
+<!-- Hard Row (DYNAMIC) -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.hardSolved&label=%F0%9F%94%B4%20%20HARD&suffix=%20%2F%20937&style=for-the-badge&color=4C1D95&labelColor=1E1B4B" height="42"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Total Submissions (DYNAMIC) -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.matchedUserStats.acSubmissionNum%5B0%5D.submissions&label=%E2%9A%A1%20%20Total%20Submissions&style=for-the-badge&color=A78BFA&labelColor=1E1B4B" height="38"/>
+</a>
+
+</div>
 
 <br/>
 
