@@ -211,9 +211,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=420&height=60&lines=%E2%9C%A8+Experience" alt="Experience heading"/>
 </h2>
 
-### 🏢 &nbsp; Innostax Software Labs Pvt. Ltd.
+<table>
+<tr>
+<td width="120" align="center" valign="middle">
+  <!-- 📌 REPLACE THIS URL after uploading innostax-logo.png to your profile repo:
+       https://raw.githubusercontent.com/Tisha-Coding/Tisha-Coding/main/innostax-logo.png -->
+  <img src="https://www.google.com/s2/favicons?domain=innostax.com&sz=128" width="80" alt="Innostax"/>
+</td>
+<td valign="middle">
 
-**💻 &nbsp; Full Stack Developer** &nbsp;·&nbsp; 🗓️ &nbsp;*Jun 2025 – Jan 2026* &nbsp;·&nbsp; 📍 &nbsp;*Gurgaon, Haryana*
+### &nbsp;Innostax Software Labs Pvt. Ltd.
+
+&nbsp;**💻 Full Stack Developer** &nbsp;·&nbsp; 🗓️ *Jun 2025 – Jan 2026* &nbsp;·&nbsp; 📍 *Gurgaon, Haryana*
+
+</td>
+</tr>
+</table>
 
 - Built the **RealWired Reporting System** — digitized banking appraisal workflows used by **80+ bank managers**
 - Developed **15+ reusable React components** and interactive analytics dashboards with responsive design
@@ -234,9 +247,22 @@
 
 <br/>
 
-### 🏢 &nbsp; Austere Systems Limited
+<table>
+<tr>
+<td width="120" align="center" valign="middle">
+  <!-- 📌 REPLACE THIS URL after uploading austere-logo.png to your profile repo:
+       https://raw.githubusercontent.com/Tisha-Coding/Tisha-Coding/main/austere-logo.png -->
+  <img src="https://www.google.com/s2/favicons?domain=austeresystems.com&sz=128" width="80" alt="Austere Systems"/>
+</td>
+<td valign="middle">
 
-**💻 &nbsp; Full Stack Developer Intern** &nbsp;·&nbsp; 🗓️ &nbsp;*Jan 2025 – Jun 2025* &nbsp;·&nbsp; 📍 &nbsp;*Gurgaon, Haryana*
+### &nbsp;Austere Systems Limited
+
+&nbsp;**💻 Full Stack Developer Intern** &nbsp;·&nbsp; 🗓️ *Jan 2025 – Jun 2025* &nbsp;·&nbsp; 📍 *Gurgaon, Haryana*
+
+</td>
+</tr>
+</table>
 
 - Migrated a **legacy PHP CodeIgniter** application to **React + Node.js**, improving scalability & maintainability
 - Built REST APIs for product catalog, user management & order processing — reduced data-fetch latency by **25%**
