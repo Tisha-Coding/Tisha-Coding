@@ -21,17 +21,11 @@
 <br/>
 <br/>
 
-<!-- IDENTITY BADGES -->
+<!-- IDENTITY LINE -->
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-5B21B6?style=flat-square&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/AI--integrated%20Apps-7C3AED?style=flat-square&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/React.js-5B21B6?style=flat-square&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/Node.js-5B21B6?style=flat-square&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=flat-square&logo=postgresql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white&labelColor=1E1B4B" height="26"/>
-<img src="https://img.shields.io/badge/Groq%20API-5B21B6?style=flat-square&labelColor=1E1B4B" height="26"/>
+<p>
+  <b>Full Stack Developer</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>AI-Integrated Apps</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>React</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Next.js</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Node.js</b>
+</p>
 
 <br/>
 <br/>
