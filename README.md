@@ -484,14 +484,16 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=A78BFA" alt="GitHub Stats"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tisha-Coding&theme=tokyo_night" alt="GitHub Stats"/>
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<img height="200" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 <br/>
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&card_width=460" alt="Top Languages"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tisha-Coding&theme=tokyo_night" alt="Most Used Languages"/>
+&nbsp;
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tisha-Coding&theme=tokyo_night" alt="Repos per Language"/>
 
 <br/>
 <br/>
