@@ -512,7 +512,7 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 </h2>
 
 <p align="center">
-  <i>Strengthening DSA fundamentals through consistent problem solving — one problem at a time.</i>
+  <i>Strengthening DSA fundamentals through consistent problem solving — visualized below.</i>
 </p>
 
 <br/>
@@ -524,10 +524,24 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
   <img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20%20%20Tisha__Leetcodeee%20%20%20%E2%80%A2%20%20%20LeetCode%20Profile-5B21B6?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=1E1B4B" height="42"/>
 </a>
 
-<br/>
+</div>
+
 <br/>
 
-<!-- Live Stats Row -->
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'pie1':'#5B21B6','pie2':'#7C3AED','pie3':'#A78BFA','pieTitleTextSize':'22px','pieTitleTextColor':'#5B21B6','pieSectionTextSize':'16px','pieSectionTextColor':'#FFFFFF','pieOuterStrokeWidth':'2px','pieOuterStrokeColor':'#1E1B4B','pieStrokeColor':'#1E1B4B','pieStrokeWidth':'2px','pieLegendTextSize':'14px','pieLegendTextColor':'#5B21B6'}}}%%
+pie showData
+  title  LeetCode Problem Landscape (Total Available)
+  "Easy" : 946
+  "Medium" : 2061
+  "Hard" : 937
+```
+
+<br/>
+
+<div align="center">
+
+<!-- Live Stats Row - actual progress -->
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.totalSolved&label=%F0%9F%8E%AF%20%20Total%20Solved&style=for-the-badge&color=A78BFA&labelColor=1E1B4B" height="38"/>
 </a>
@@ -552,18 +566,6 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 
 <!-- Purple gradient divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,50:7C3AED,100:5B21B6&height=3&section=header" width="70%"/>
-
-<br/>
-<br/>
-
-<!-- Motivational pills -->
-<p>
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20%20Daily%20Practice-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="28"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%88%20%20Consistent%20Growth-1E1B4B?style=flat&labelColor=7C3AED&color=1E1B4B" height="28"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20%20DSA%20Focus-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="28"/>
-</p>
 
 <br/>
 <br/>
