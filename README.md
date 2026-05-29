@@ -87,7 +87,9 @@
      FULL STACK + AI ENGINEERING FOCUS
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🚀&nbsp; Full Stack + AI Engineering Focus
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=720&height=60&lines=%F0%9F%9A%80+Full+Stack+%2B+AI+Engineering+Focus" alt="Engineering Focus heading"/>
+</h2>
 
 <div align="center">
 
@@ -399,7 +401,9 @@ A **full-stack project management platform** with role-based access control for 
 
 <div align="center">
 
-[**Explore all repositories →**](https://github.com/Tisha-Coding?tab=repositories)
+<a href="https://github.com/Tisha-Coding?tab=repositories">
+  <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20%20Explore%20all%20repositories%20%E2%86%92-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="40"/>
+</a>
 
 </div>
 
@@ -410,32 +414,60 @@ A **full-stack project management platform** with role-based access control for 
      AI + FULL STACK IDENTITY
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🤖&nbsp; AI + Full Stack Identity
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=38&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=820&height=60&lines=%F0%9F%A4%96+Full+Stack+Systems+with+AI-Powered+Layers" alt="Full Stack + AI Identity heading"/>
+</h2>
 
-I'm not just a frontend developer — I build **complete, production-ready systems** with **AI baked in**.
+<p align="center">
+  <i>I build full-stack products where clean UI, secure backend logic, scalable databases, and AI-powered features work together.</i>
+</p>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<br/>
 
-#### &nbsp;Full-Stack Systems I Build
-- REST APIs with auth, validation & error handling
-- Normalized databases with optimized queries
-- Role-based admin dashboards
-- Payment, email & file-upload integrations
-- Production deployments on Vercel & Render
+### 🎨 &nbsp; Frontend Experience
 
-</td>
-<td valign="top" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/React.js-1E1B4B?style=flat&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat&logo=nextdotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat&logo=typescript&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Tailwind-1E1B4B?style=flat&logo=tailwindcss&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
 
-#### &nbsp;AI-Powered Features I Ship
-- **Production AI chatbot** using Groq API for product & order queries
-- AI-assisted dev workflows with **Cursor + GitHub Copilot**
-- Daily use of **ChatGPT, Claude, Perplexity** for research, refactors & architecture
+Building **responsive dashboards**, **reusable UI components**, and **optimistic UI patterns** with pixel-precise responsive design.
 
-</td>
-</tr>
-</table>
+<br/>
+
+### ⚙️ &nbsp; Backend & Database Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=flat&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Express.js-1E1B4B?style=flat&logo=express&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=flat&logo=swagger&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/JWT-1E1B4B?style=flat&logo=jsonwebtokens&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1B4B?style=flat&logo=postgresql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/MongoDB-1E1B4B?style=flat&logo=mongodb&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Prisma-1E1B4B?style=flat&logo=prisma&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
+
+Architecting **REST APIs** with **JWT auth, RBAC, pagination, indexing**, and normalized schemas — designed for security and scale.
+
+<br/>
+
+### 🤖 &nbsp; AI & Product Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Groq_API-1E1B4B?style=flat&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Stripe-1E1B4B?style=flat&logo=stripe&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Razorpay-1E1B4B?style=flat&logo=razorpay&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Cloudinary-1E1B4B?style=flat&logo=cloudinary&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Nodemailer-1E1B4B?style=flat&logo=minutemailer&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
+
+Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus seamless **payment, email, and media integrations** for end-to-end product flows.
+
+<br/>
+
+> From dashboards and APIs to AI-powered product experiences, I focus on **shipping complete systems** — not just isolated features.
 
 <br/>
 <br/>
