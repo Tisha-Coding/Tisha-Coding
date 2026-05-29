@@ -46,24 +46,44 @@
 
 ## &nbsp;👋&nbsp; About Me
 
-I'm **Tisha** — a **Full Stack Developer** with **1+ year of professional experience** building **scalable, secure, and responsive** web applications end-to-end.
+> I'm **Tisha** — a **Full Stack Developer** with **1+ year of professional experience** crafting **scalable, secure, and AI-integrated** web applications end-to-end.
 
 <br/>
 
-> **🧩 &nbsp;Full Stack Engineering**
-> React.js &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MongoDB
+### &nbsp;🧩 &nbsp; Full Stack Engineering
 
-> **🤖 &nbsp;AI-Powered Product Features**
-> Production chatbots with **Groq API** &nbsp;·&nbsp; AI-assisted dev workflows with Cursor & Copilot
-
-> **⚙️ &nbsp;Production-Ready Systems**
-> Analytics dashboards &nbsp;·&nbsp; e-commerce platforms &nbsp;·&nbsp; admin panels &nbsp;·&nbsp; Stripe & Razorpay payments
+> **`React.js`** &nbsp; **`Next.js`** &nbsp; **`Node.js`** &nbsp; **`TypeScript`** &nbsp; **`PostgreSQL`** &nbsp; **`MongoDB`**
+>
+> *Architecting modular, reusable components and secure REST APIs with strong typing, JWT auth, RBAC, debounced search, pagination, and DB-level optimization.*
 
 <br/>
 
-🎯 &nbsp;**Currently focused on** &nbsp;—&nbsp; *building scalable full-stack products with AI baked into the user experience.*
+### &nbsp;🤖 &nbsp; AI-Powered Product Features
 
-💼 &nbsp;**Available for** &nbsp;—&nbsp; *Full Stack & Frontend Developer opportunities.*
+> **`Groq API`** &nbsp; **`Cursor`** &nbsp; **`Claude`** &nbsp; **`GitHub Copilot`** &nbsp; **`Perplexity`**
+>
+> *Shipping production-grade AI chatbots for real-world product queries, and integrating AI-assisted workflows into the development cycle.*
+
+<br/>
+
+### &nbsp;⚙️ &nbsp; Production-Ready Systems
+
+> **`Analytics Dashboards`** &nbsp; **`E-Commerce`** &nbsp; **`Admin Panels`** &nbsp; **`Stripe`** &nbsp; **`Razorpay`** &nbsp; **`Cloudinary`**
+>
+> *Delivering end-to-end systems with revenue dashboards, payment integrations, file uploads, and production deployments on Vercel & Render.*
+
+<br/>
+
+<table>
+<tr>
+<td>🎯</td>
+<td><b>Currently focused on</b> &nbsp;—&nbsp; <i>building scalable full-stack products with AI baked into the user experience.</i></td>
+</tr>
+<tr>
+<td>💼</td>
+<td><b>Available for</b> &nbsp;—&nbsp; <i>Full Stack & Frontend Developer opportunities. Let's collaborate & build something meaningful.</i></td>
+</tr>
+</table>
 
 <br/>
 <br/>
