@@ -50,7 +50,7 @@
 
 <br/>
 
-### &nbsp;🧩 &nbsp; Full Stack Engineering
+<img src="https://img.shields.io/badge/%F0%9F%A7%A9%20%20%20Full%20Stack%20Engineering%20%20-5B21B6?style=for-the-badge&labelColor=1E1B4B" height="38"/>
 
 > **`React.js`** &nbsp; **`Next.js`** &nbsp; **`Node.js`** &nbsp; **`TypeScript`** &nbsp; **`PostgreSQL`** &nbsp; **`MongoDB`**
 >
@@ -58,7 +58,7 @@
 
 <br/>
 
-### &nbsp;🤖 &nbsp; AI-Powered Product Features
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20%20%20AI--Powered%20Product%20Features%20%20-7C3AED?style=for-the-badge&labelColor=1E1B4B" height="38"/>
 
 > **`Groq API`** &nbsp; **`Cursor`** &nbsp; **`Claude`** &nbsp; **`GitHub Copilot`** &nbsp; **`Perplexity`**
 >
@@ -66,7 +66,7 @@
 
 <br/>
 
-### &nbsp;⚙️ &nbsp; Production-Ready Systems
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20%20%20Production--Ready%20Systems%20%20-4C1D95?style=for-the-badge&labelColor=1E1B4B" height="38"/>
 
 > **`Analytics Dashboards`** &nbsp; **`E-Commerce`** &nbsp; **`Admin Panels`** &nbsp; **`Stripe`** &nbsp; **`Razorpay`** &nbsp; **`Cloudinary`**
 >
@@ -74,16 +74,9 @@
 
 <br/>
 
-<table>
-<tr>
-<td>🎯</td>
-<td><b>Currently focused on</b> &nbsp;—&nbsp; <i>building scalable full-stack products with AI baked into the user experience.</i></td>
-</tr>
-<tr>
-<td>💼</td>
-<td><b>Available for</b> &nbsp;—&nbsp; <i>Full Stack & Frontend Developer opportunities. Let's collaborate & build something meaningful.</i></td>
-</tr>
-</table>
+🎯 &nbsp;**Currently focused on** &nbsp;—&nbsp; *building scalable full-stack products with AI baked into the user experience.*
+
+💼 &nbsp;**Available for** &nbsp;—&nbsp; *Full Stack & Frontend Developer opportunities. Let's collaborate & build something meaningful.*
 
 <br/>
 <br/>
