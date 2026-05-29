@@ -476,26 +476,27 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
      GITHUB STATS
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;📊&nbsp; GitHub Stats
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=460&height=60&lines=%F0%9F%93%8A+GitHub+Activity" alt="GitHub Activity heading"/>
+</h2>
 
 <div align="center">
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&ring_color=5B21B6" alt="Tisha's GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=FFFFFF&stroke=5B21B6&ring=5B21B6&fire=7C3AED&currStreakLabel=5B21B6&sideLabels=1E1B4B&dates=A78BFA&currStreakNum=1E1B4B&sideNums=1E1B4B" alt="Tisha's Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&ring_color=5B21B6" alt="GitHub Stats"/>
+&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=FFFFFF&stroke=5B21B6&ring=5B21B6&fire=7C3AED&currStreakLabel=5B21B6&sideLabels=1E1B4B&dates=A78BFA&currStreakNum=1E1B4B&sideNums=1E1B4B" alt="GitHub Streak"/>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=5B21B6&text_color=1E1B4B&langs_count=8&card_width=500" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=5B21B6&text_color=1E1B4B&langs_count=8&card_width=440" alt="Top Languages"/>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tisha-Coding&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha-Coding&bg_color=FFFFFF&color=5B21B6&line=7C3AED&point=1E1B4B&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha-Coding&bg_color=FFFFFF&color=5B21B6&line=7C3AED&point=1E1B4B&area=true&hide_border=true&custom_title=Contribution%20Activity&height=200" width="92%" alt="Contribution Graph"/>
 
 </div>
 
@@ -503,23 +504,30 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════
-     LEETCODE
+     PROBLEM SOLVING
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🧠&nbsp; Problem Solving
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=460&height=60&lines=%F0%9F%A7%A0+Problem+Solving" alt="Problem Solving heading"/>
+</h2>
 
-<div align="center">
+<p align="center">
+  <i>Strengthening DSA fundamentals through consistent problem solving.</i>
+</p>
 
 <br/>
 
+<div align="center">
+
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=light&font=Inter&ext=heatmap&border=0&radius=12" width="65%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=light&font=Inter&border=0&radius=12" width="48%" alt="LeetCode Stats"/>
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode%20%E2%86%92-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="38"/>
 </a>
 
 </div>
@@ -531,15 +539,35 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
      EDUCATION & ACHIEVEMENTS
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🎓&nbsp; Education & Achievements
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=620&height=60&lines=%F0%9F%8E%93+Education+%26+Achievements" alt="Education heading"/>
+</h2>
 
-- &nbsp;**Master of Computer Applications (MCA)** &nbsp;·&nbsp; Thapar Institute of Engineering & Technology &nbsp;·&nbsp; **CGPA 9.53**
-- &nbsp;**Bachelor of Computer Applications (BCA)** &nbsp;·&nbsp; Government College for Girls, Ludhiana &nbsp;·&nbsp; **93.1%**
-- &nbsp;Secured **2nd University Rank** at Panjab University during BCA
-- &nbsp;**Merit-Based Scholarship** awarded throughout BCA program
-- &nbsp;**Co-filed patent** for Smart Parking System via Thapar Institute
-- &nbsp;Certified in **Full Stack Web Development with AI** from Aimerz — Capstone Project completed
-- &nbsp;Completed **Google Cloud Arcade Program** — hands-on cloud & developer challenges
+<br/>
+
+#### &nbsp;🎓 &nbsp; Education
+
+&nbsp;&nbsp;&nbsp; **Master of Computer Applications (MCA)** &nbsp;·&nbsp; Thapar Institute of Engineering & Technology &nbsp;·&nbsp; <img src="https://img.shields.io/badge/CGPA%20%C2%B7%209.53-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/>
+
+&nbsp;&nbsp;&nbsp; **Bachelor of Computer Applications (BCA)** &nbsp;·&nbsp; Government College for Girls, Ludhiana &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Score%20%C2%B7%2093.1%25-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/>
+
+<br/>
+
+#### &nbsp;🏆 &nbsp; Academic Excellence
+
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/2nd%20University%20Rank-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="22"/> &nbsp;at Panjab University during BCA
+
+&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Merit--Based%20Scholarship-1E1B4B?style=flat&labelColor=7C3AED&color=1E1B4B" height="22"/> &nbsp;awarded throughout BCA program
+
+<br/>
+
+#### &nbsp;📜 &nbsp; Patent & Certifications
+
+&nbsp;&nbsp;&nbsp; **Co-filed Patent** &nbsp;·&nbsp; *Smart Parking System* — via Thapar Institute of Engineering & Technology
+
+&nbsp;&nbsp;&nbsp; **Aimerz Certification** &nbsp;·&nbsp; *Full Stack Web Development with AI* — Capstone Project completed
+
+&nbsp;&nbsp;&nbsp; **Google Cloud Arcade Program** &nbsp;·&nbsp; Hands-on cloud & developer challenges
 
 <br/>
 <br/>
@@ -548,36 +576,36 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
      CONNECT WITH ME
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🤝&nbsp; Connect With Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=520&height=60&lines=%F0%9F%A4%9D+Connect+With+Me" alt="Connect heading"/>
+</h2>
+
+<p align="center">
+  <i>Open to Full Stack & Frontend Developer opportunities, collaborations, and meaningful product-building conversations.</i>
+</p>
+
+<br/>
 
 <div align="center">
 
-<br/>
-
-I'm currently **open to Full Stack & Frontend Developer opportunities**.
-<br/>
-Let's collaborate, build something meaningful, or just chat about tech.
-
-<br/><br/>
-
 <a href="https://portfolio-six-rho-73.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=1E1B4B" height="40"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/tisha-3835a8319/">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1E1B4B" height="40"/>
 </a>
 &nbsp;
 <a href="https://github.com/Tisha-Coding">
-  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1E1B4B" height="40"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/LeetCode-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="40"/>
 </a>
 &nbsp;
 <a href="mailto:ttisha2528@gmail.com">
-  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1E1B4B" height="40"/>
 </a>
 
 </div>
@@ -589,9 +617,7 @@ Let's collaborate, build something meaningful, or just chat about tech.
      FOOTER
 ═════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,30:7C3AED,70:4C1D95,100:1E1B4B&height=130&section=footer" width="100%"/>
-
 <div align="center">
-  <h4>Building scalable products with clean UI, strong backend logic, and AI-powered experiences.</h4>
-  <sub><i>If you like my work, consider starring a repository — it really makes my day.</i></sub>
+  <h4><i>Building scalable products with clean UI, strong backend logic, and AI-powered experiences.</i></h4>
+  <sub><i>⭐ &nbsp; If you like my work, consider starring a repository — it really makes my day.</i></sub>
 </div>
