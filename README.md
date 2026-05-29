@@ -98,21 +98,21 @@
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=02%20%20%20API%20ARCHITECTURE%20%26%20DATA-DRIVEN%20APPS&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=02%20%20%20API%20ARCHITECTURE%20AND%20DATA-DRIVEN%20APPS&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
 
 <sub>Server-side **pagination · debounced search · DB indexing · normalized schemas**</sub>
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:5B21B6&height=44&section=header&text=03%20%20%20AUTHENTICATION%2C%20AUTHORIZATION%20%26%20SECURE%20WORKFLOWS&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:5B21B6&height=44&section=header&text=03%20%20%20AUTHENTICATION%20AUTHORIZATION%20AND%20SECURE%20WORKFLOWS&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
 
 <sub>**JWT · NextAuth · bcrypt · Zod validation · RBAC · DB-level ownership checks**</sub>
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=04%20%20%20PERFORMANCE-FOCUSED%20FRONTEND%20%26%20BACKEND&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=04%20%20%20PERFORMANCE-FOCUSED%20FRONTEND%20AND%20BACKEND&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
 
 <sub>**Optimistic UI · atomic DB increments · query optimization · debounced sync**</sub>
 
@@ -126,7 +126,7 @@
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=06%20%20%20CLEAN%20UI%2C%20DASHBOARDS%20%26%20PRODUCTION%20DEPLOYMENT&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:7C3AED&height=44&section=header&text=06%20%20%20CLEAN%20UI%20DASHBOARDS%20AND%20PRODUCTION%20DEPLOYMENT&fontSize=14&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" width="68%"/>
 
 <sub>Reusable components · analytics dashboards · **Vercel · Render · Netlify**</sub>
 
