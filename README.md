@@ -519,7 +519,44 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 
 <div align="center">
 
-<!-- Top decorative badge row -->
+<!-- Profile banner -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20%20%20Tisha__Leetcodeee%20%20%20%E2%80%A2%20%20%20LeetCode%20Profile-5B21B6?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=1E1B4B" height="42"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Live Stats Row -->
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.totalSolved&label=%F0%9F%8E%AF%20%20Total%20Solved&style=for-the-badge&color=A78BFA&labelColor=1E1B4B" height="38"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.matchedUserStats.acSubmissionNum%5B0%5D.submissions&label=%E2%9A%A1%20%20Submissions&style=for-the-badge&color=7C3AED&labelColor=1E1B4B" height="38"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Difficulty Breakdown -->
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.easySolved&label=%F0%9F%9F%A2%20%20Easy&style=for-the-badge&color=5B21B6&labelColor=1E1B4B" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.mediumSolved&label=%F0%9F%9F%A1%20%20Medium&style=for-the-badge&color=7C3AED&labelColor=1E1B4B" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2FTisha_Leetcodeee&query=%24.hardSolved&label=%F0%9F%94%B4%20%20Hard&style=for-the-badge&color=4C1D95&labelColor=1E1B4B" height="36"/>
+</p>
+
+<br/>
+
+<!-- Purple gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,50:7C3AED,100:5B21B6&height=3&section=header" width="70%"/>
+
+<br/>
+<br/>
+
+<!-- Motivational pills -->
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%92%BB%20%20Daily%20Practice-1E1B4B?style=flat&labelColor=5B21B6&color=1E1B4B" height="28"/>
   &nbsp;&nbsp;
@@ -529,19 +566,9 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 </p>
 
 <br/>
-
-<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=dark&font=Inter&border=2&radius=14&ext=heatmap&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&iconColor=A78BFA" width="58%" alt="LeetCode Stats"/>
-</a>
-
-<br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,50:7C3AED,100:5B21B6&height=3&section=header" width="58%"/>
-
-<br/>
-<br/>
-
+<!-- CTA Buttons -->
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20View%20My%20LeetCode%20Profile-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="42"/>
 </a>
