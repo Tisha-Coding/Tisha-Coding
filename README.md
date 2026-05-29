@@ -484,19 +484,19 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&ring_color=5B21B6" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tisha-Coding&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=A78BFA" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=FFFFFF&stroke=5B21B6&ring=5B21B6&fire=7C3AED&currStreakLabel=5B21B6&sideLabels=1E1B4B&dates=A78BFA&currStreakNum=1E1B4B&sideNums=1E1B4B" alt="GitHub Streak"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Tisha-Coding&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 <br/>
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=5B21B6&text_color=1E1B4B&langs_count=8&card_width=440" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Coding&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&card_width=460" alt="Top Languages"/>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha-Coding&bg_color=FFFFFF&color=5B21B6&line=7C3AED&point=1E1B4B&area=true&hide_border=true&custom_title=Contribution%20Activity&height=200" width="92%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tisha-Coding&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=5B21B6&hide_border=true&custom_title=Contribution%20Activity&title_color=A78BFA&height=320" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -520,14 +520,14 @@ Shipping **Groq-powered AI chatbots** for product queries & order tracking, plus
 <div align="center">
 
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=light&font=Inter&border=0&radius=12" width="48%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Tisha_Leetcodeee?theme=dark&font=Inter&border=0&radius=14&ext=heatmap" width="60%" alt="LeetCode Stats"/>
 </a>
 
 <br/>
 <br/>
 
 <a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode%20%E2%86%92-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="38"/>
+  <img src="https://img.shields.io/badge/Solve%20with%20me%20on%20LeetCode%20%E2%86%92-5B21B6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF&labelColor=1E1B4B" height="42"/>
 </a>
 
 </div>
