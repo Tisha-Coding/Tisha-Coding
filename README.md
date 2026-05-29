@@ -141,40 +141,60 @@
      TECH STACK
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;🧰&nbsp; Tech Stack & Tools
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=520&height=60&lines=%E2%9A%A1+Tech+Stack+%26+Tools" alt="Tech Stack heading"/>
+</h2>
 
-*Technologies I use to build scalable full-stack and AI-integrated web applications.*
+<p align="center">
+  <i>Technologies I use to build scalable full-stack and AI-integrated web applications.</i>
+</p>
 
 <br/>
 
+<div align="center">
+
 #### &nbsp;🎨 &nbsp; Frontend
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,redux,tailwind,vite&theme=dark" />
+</p>
 
 #### &nbsp;⚙️ &nbsp; Backend
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
 <img src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=for-the-badge&logo=swagger&logoColor=A78BFA" height="48"/>
 <img src="https://img.shields.io/badge/Nodemailer-1E1B4B?style=for-the-badge&logo=minutemailer&logoColor=A78BFA" height="48"/>
+</p>
 
 #### &nbsp;🗄️ &nbsp; Databases
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" />
+</p>
 
 #### &nbsp;🔐 &nbsp; Auth & Validation
+<p>
 <img src="https://img.shields.io/badge/JWT-1E1B4B?style=for-the-badge&logo=jsonwebtokens&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/NextAuth-1E1B4B?style=for-the-badge&logo=auth0&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/bcrypt-1E1B4B?style=for-the-badge&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/Zod-1E1B4B?style=for-the-badge&logo=zod&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/Joi-1E1B4B?style=for-the-badge&logoColor=A78BFA" height="40"/>
+</p>
 
 #### &nbsp;🤖 &nbsp; AI & Integrations
+<p>
 <img src="https://img.shields.io/badge/Groq_API-1E1B4B?style=for-the-badge&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/Stripe-1E1B4B?style=for-the-badge&logo=stripe&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/Razorpay-1E1B4B?style=for-the-badge&logo=razorpay&logoColor=A78BFA" height="40"/>
 <img src="https://img.shields.io/badge/Cloudinary-1E1B4B?style=for-the-badge&logo=cloudinary&logoColor=A78BFA" height="40"/>
+</p>
 
 #### &nbsp;🛠️ &nbsp; Tools & Deployment
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark" />
 <img src="https://img.shields.io/badge/Chrome_DevTools-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" height="48"/>
 <img src="https://img.shields.io/badge/Render-1E1B4B?style=for-the-badge&logo=render&logoColor=A78BFA" height="48"/>
+</p>
+
+</div>
 
 <br/>
 <br/>
