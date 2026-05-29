@@ -2,10 +2,6 @@
      HERO — White + Dark Purple Premium Header
 ═════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Tisha-Coding">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=130&section=header&text=FULL%20STACK%20%2B%20AI%20DEVELOPER&fontSize=30&fontAlignY=42&fontColor=FFFFFF&desc=Building%20scalable%20web%20apps%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=75&descAlign=50&descSize=12&animation=twinkling" width="100%"/>
-</a>
-
 <div align="center">
 
 <a href="https://github.com/Tisha-Coding">
