@@ -44,7 +44,9 @@
      INTRO — Short, Punchy, Recruiter-Friendly
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;👋&nbsp; About Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=420&height=60&lines=%E2%9C%A8+About+Me" alt="About Me heading"/>
+</h2>
 
 > I'm **Tisha** — a **Full Stack Developer** with **1+ year of professional experience** crafting **scalable, secure, and AI-integrated** web applications end-to-end.
 
@@ -203,7 +205,9 @@
      EXPERIENCE
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;💼&nbsp; Experience
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=42&duration=8000&pause=8000&color=5B21B6&center=true&vCenter=true&width=420&height=60&lines=%E2%9C%A8+Experience" alt="Experience heading"/>
+</h2>
 
 ### 🏢 &nbsp; Innostax Software Labs Pvt. Ltd.
 
@@ -261,9 +265,21 @@
   <img src="https://raw.githubusercontent.com/Tisha-Coding/Portfolio/main/public/projects/project1.png" width="100%" alt="PulseFeed Preview"/>
 </a>
 
+<br/>
+<br/>
+
 A **high-performance cross-media content platform** combining short-form videos and long-form articles in a single, instant-feeling feed.
 
-**Tech &nbsp;·&nbsp;** `Next.js` `TypeScript` `PostgreSQL` `Prisma ORM` `NextAuth` `Zod` `Video.js` `Tailwind CSS`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat&logo=nextdotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat&logo=typescript&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1B4B?style=flat&logo=postgresql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Prisma-1E1B4B?style=flat&logo=prisma&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/NextAuth-1E1B4B?style=flat&logo=auth0&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Zod-1E1B4B?style=flat&logo=zod&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Video.js-1E1B4B?style=flat&logo=videodotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Tailwind-1E1B4B?style=flat&logo=tailwindcss&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
 
 **Engineering Highlights**
 - &nbsp;**Cursor-based pagination** + PostgreSQL **GIN trigram index** for fast title search at scale
@@ -295,9 +311,25 @@ A **high-performance cross-media content platform** combining short-form videos 
   <img src="https://raw.githubusercontent.com/Tisha-Coding/Portfolio/main/public/projects/project2.png" width="100%" alt="E-Commerce Preview"/>
 </a>
 
+<br/>
+<br/>
+
 A **production-grade full-stack e-commerce platform** with separate customer + admin workflows and an embedded **AI chatbot** for product queries and order tracking.
 
-**Tech &nbsp;·&nbsp;** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `JWT` `Stripe` `Razorpay` `Cloudinary` `Groq API` `Nodemailer`
+<p>
+  <img src="https://img.shields.io/badge/React.js-1E1B4B?style=flat&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=flat&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Express.js-1E1B4B?style=flat&logo=express&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/MongoDB-1E1B4B?style=flat&logo=mongodb&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Mongoose-1E1B4B?style=flat&logo=mongoose&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Tailwind-1E1B4B?style=flat&logo=tailwindcss&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/JWT-1E1B4B?style=flat&logo=jsonwebtokens&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Stripe-1E1B4B?style=flat&logo=stripe&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Razorpay-1E1B4B?style=flat&logo=razorpay&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Cloudinary-1E1B4B?style=flat&logo=cloudinary&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Groq_API-1E1B4B?style=flat&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Nodemailer-1E1B4B?style=flat&logo=minutemailer&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
 
 **Engineering Highlights**
 - &nbsp;Admin panel with **revenue analytics dashboard**, product CRUD, order status management, dynamic sales scheduling
@@ -329,9 +361,21 @@ A **production-grade full-stack e-commerce platform** with separate customer + a
   <img src="https://raw.githubusercontent.com/Tisha-Coding/Portfolio/main/public/projects/project3.png" width="100%" alt="Team Task Manager Preview"/>
 </a>
 
+<br/>
+<br/>
+
 A **full-stack project management platform** with role-based access control for Admin and Member workflows — project creation, task assignment, and team management.
 
-**Tech &nbsp;·&nbsp;** `React.js` `TypeScript` `Redux Toolkit` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `JWT`
+<p>
+  <img src="https://img.shields.io/badge/React.js-1E1B4B?style=flat&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat&logo=typescript&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-1E1B4B?style=flat&logo=redux&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Tailwind-1E1B4B?style=flat&logo=tailwindcss&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=flat&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Express.js-1E1B4B?style=flat&logo=express&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1B4B?style=flat&logo=postgresql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/JWT-1E1B4B?style=flat&logo=jsonwebtokens&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
 
 **Engineering Highlights**
 - &nbsp;Secure REST APIs with **JWT auth, bcrypt hashing, and DB-level ownership checks** preventing privilege escalation
