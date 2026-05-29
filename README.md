@@ -203,23 +203,45 @@
      EXPERIENCE
 ═════════════════════════════════════════════════════════════════ -->
 
-## &nbsp;💼&nbsp; Experience Snapshot
+## &nbsp;💼&nbsp; Experience
 
-> ### &nbsp;Innostax Software Labs Pvt. Ltd. &nbsp;—&nbsp; *Full Stack Developer*
-> &nbsp;Gurgaon, Haryana &nbsp;·&nbsp; *Jun 2025 – Jan 2026*
->
-> Built the **RealWired Reporting System** — digitized banking appraisal workflows used by **80+ bank managers**. Shipped **15+ reusable React components**, interactive analytics dashboards, and **8+ REST APIs** with server-side sorting, debounced search, pagination, and database indexing.
->
-> &nbsp;`React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `PostgreSQL`
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+  <img src="https://logo.clearbit.com/innostax.com" width="100" alt="Innostax"/>
+</td>
+<td valign="middle">
+
+### &nbsp;Innostax Software Labs Pvt. Ltd.
+&nbsp;**Full Stack Developer** &nbsp;·&nbsp; 📍 *Gurgaon, Haryana* &nbsp;·&nbsp; 🗓️ *Jun 2025 – Jan 2026*
+
+&nbsp;Built the **RealWired Reporting System** — digitized banking appraisal workflows used by **80+ bank managers**. Shipped **15+ reusable React components**, interactive analytics dashboards, and **8+ REST APIs** with server-side sorting, debounced search, pagination, and database indexing.
+
+&nbsp;`React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `PostgreSQL`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-> ### &nbsp;Austere Systems Limited &nbsp;—&nbsp; *Full Stack Developer Intern*
-> &nbsp;Gurgaon, Haryana &nbsp;·&nbsp; *Jan 2025 – Jun 2025*
->
-> Migrated a **legacy PHP CodeIgniter** application to **React + Node.js**, reducing frontend data-fetch latency by **25%**. Shipped **10+ responsive UI components** for the ToyFort admin dashboard improving page load by **30%**, and delivered the admin panel for a pharma client.
->
-> &nbsp;`React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MySQL`
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+  <img src="https://logo.clearbit.com/austere-systems.com" width="100" alt="Austere Systems"/>
+</td>
+<td valign="middle">
+
+### &nbsp;Austere Systems Limited
+&nbsp;**Full Stack Developer Intern** &nbsp;·&nbsp; 📍 *Gurgaon, Haryana* &nbsp;·&nbsp; 🗓️ *Jan 2025 – Jun 2025*
+
+&nbsp;Migrated a **legacy PHP CodeIgniter** application to **React + Node.js**, reducing frontend data-fetch latency by **25%**. Shipped **10+ responsive UI components** for the ToyFort admin dashboard improving page load by **30%**, and delivered the admin panel for a pharma client.
+
+&nbsp;`React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MySQL`
+
+</td>
+</tr>
+</table>
 
 <br/>
 <br/>
