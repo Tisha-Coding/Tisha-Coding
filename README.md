@@ -21,10 +21,18 @@
 <br/>
 <br/>
 
-<!-- STATUS LINE -->
+<!-- STATUS STRIP — Premium SaaS pill style -->
 
-<p>
-  🟢 &nbsp;<b>Available for Hire</b> &nbsp;&nbsp;·&nbsp;&nbsp; 📍 &nbsp;<b>Greater Noida, India</b> &nbsp;&nbsp;·&nbsp;&nbsp; ✨ &nbsp;<b>Open to Collaborate</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20Open%20to%20Full%20Stack%20%26%20Frontend%20Roles-5B21B6?style=flat&labelColor=5B21B6" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%E2%9C%A8%20%20Building%20AI--powered%20Web%20Apps-7C3AED?style=flat&labelColor=7C3AED" height="32"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20%20Based%20in%20India-1E1B4B?style=flat&labelColor=1E1B4B" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20%20Open%20to%20Collaborate-4C1D95?style=flat&labelColor=4C1D95" height="32"/>
 </p>
 
 </div>
