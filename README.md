@@ -46,13 +46,34 @@
 
 ## &nbsp;👋&nbsp; About Me
 
-> **Full Stack Web Developer · 1+ year of professional experience** &nbsp;shipping **scalable, secure, production-grade web applications**.
+I'm **Tisha** — a **Full Stack Developer** with **1+ year of professional experience** building **scalable, secure, and responsive** web applications end-to-end.
 
-▸ &nbsp;Core stack — **React.js · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB**
-▸ &nbsp;Specialized in **REST APIs · analytics dashboards · JWT auth · RBAC · database optimization**
-▸ &nbsp;Integrating **AI-powered features** with **Groq API** — production chatbots & smart workflows
-▸ &nbsp;Real-world third-party integrations — **Stripe · Razorpay · Cloudinary · Nodemailer**
-▸ &nbsp;Currently **open to Full Stack & Frontend Developer opportunities**
+<br/>
+
+#### &nbsp;▸ &nbsp;Full Stack Engineering
+
+&nbsp;&nbsp;&nbsp;&nbsp; **React.js · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB**
+&nbsp;&nbsp;&nbsp;&nbsp; REST APIs &nbsp;·&nbsp; JWT auth &nbsp;·&nbsp; RBAC &nbsp;·&nbsp; database optimization &nbsp;·&nbsp; pagination &nbsp;·&nbsp; debounced search
+
+<br/>
+
+#### &nbsp;▸ &nbsp;AI-Powered Product Features
+
+&nbsp;&nbsp;&nbsp;&nbsp; Shipped **production AI chatbots** with **Groq API** for real-world product queries & order tracking
+&nbsp;&nbsp;&nbsp;&nbsp; AI-assisted workflows with **Cursor · Claude · GitHub Copilot · Perplexity**
+
+<br/>
+
+#### &nbsp;▸ &nbsp;Production-Ready Systems
+
+&nbsp;&nbsp;&nbsp;&nbsp; Analytics dashboards &nbsp;·&nbsp; e-commerce platforms &nbsp;·&nbsp; admin panels
+&nbsp;&nbsp;&nbsp;&nbsp; Real-world integrations — **Stripe · Razorpay · Cloudinary · Nodemailer**
+
+<br/>
+
+🎯 &nbsp;**Currently focused on** &nbsp;—&nbsp; *building scalable full-stack products with AI baked into the user experience.*
+
+💼 &nbsp;**Available for** &nbsp;—&nbsp; *Full Stack & Frontend Developer opportunities. Let's build something meaningful.*
 
 <br/>
 <br/>
