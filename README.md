@@ -205,43 +205,44 @@
 
 ## &nbsp;💼&nbsp; Experience
 
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-  <img src="https://logo.clearbit.com/innostax.com" width="100" alt="Innostax"/>
-</td>
-<td valign="middle">
+### 🏢 &nbsp; Innostax Software Labs Pvt. Ltd.
 
-### &nbsp;Innostax Software Labs Pvt. Ltd.
-&nbsp;**Full Stack Developer** &nbsp;·&nbsp; 📍 *Gurgaon, Haryana* &nbsp;·&nbsp; 🗓️ *Jun 2025 – Jan 2026*
+**💻 &nbsp; Full Stack Developer** &nbsp;·&nbsp; 🗓️ &nbsp;*Jun 2025 – Jan 2026* &nbsp;·&nbsp; 📍 &nbsp;*Gurgaon, Haryana*
 
-&nbsp;Built the **RealWired Reporting System** — digitized banking appraisal workflows used by **80+ bank managers**. Shipped **15+ reusable React components**, interactive analytics dashboards, and **8+ REST APIs** with server-side sorting, debounced search, pagination, and database indexing.
+- Built the **RealWired Reporting System** — digitized banking appraisal workflows used by **80+ bank managers**
+- Developed **15+ reusable React components** and interactive analytics dashboards with responsive design
+- Engineered **8+ REST APIs** with server-side sorting, debounced search, pagination & database indexing
+- Integrated frontend with backend APIs and performed thorough manual testing for production reliability
 
-&nbsp;`React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `PostgreSQL`
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/React.js-1E1B4B?style=flat&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=flat&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat&logo=typescript&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Prisma-1E1B4B?style=flat&logo=prisma&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1B4B?style=flat&logo=postgresql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
 
 <br/>
 
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-  <img src="https://logo.clearbit.com/austere-systems.com" width="100" alt="Austere Systems"/>
-</td>
-<td valign="middle">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F3FF,50:EDE9FE,100:F5F3FF&height=2&section=header" width="100%"/>
 
-### &nbsp;Austere Systems Limited
-&nbsp;**Full Stack Developer Intern** &nbsp;·&nbsp; 📍 *Gurgaon, Haryana* &nbsp;·&nbsp; 🗓️ *Jan 2025 – Jun 2025*
+<br/>
 
-&nbsp;Migrated a **legacy PHP CodeIgniter** application to **React + Node.js**, reducing frontend data-fetch latency by **25%**. Shipped **10+ responsive UI components** for the ToyFort admin dashboard improving page load by **30%**, and delivered the admin panel for a pharma client.
+### 🏢 &nbsp; Austere Systems Limited
 
-&nbsp;`React.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MySQL`
+**💻 &nbsp; Full Stack Developer Intern** &nbsp;·&nbsp; 🗓️ &nbsp;*Jan 2025 – Jun 2025* &nbsp;·&nbsp; 📍 &nbsp;*Gurgaon, Haryana*
 
-</td>
-</tr>
-</table>
+- Migrated a **legacy PHP CodeIgniter** application to **React + Node.js**, improving scalability & maintainability
+- Built REST APIs for product catalog, user management & order processing — reduced data-fetch latency by **25%**
+- Shipped **10+ responsive UI components** for the ToyFort admin dashboard — page load time **↓ 30%**
+- Delivered the admin panel for a pharma client with seamless REST API integration
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-1E1B4B?style=flat&logo=react&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=flat&logo=nodedotjs&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/Express.js-1E1B4B?style=flat&logo=express&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+  <img src="https://img.shields.io/badge/MySQL-1E1B4B?style=flat&logo=mysql&logoColor=A78BFA&labelColor=1E1B4B" height="26"/>
+</p>
 
 <br/>
 <br/>
