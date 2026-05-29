@@ -2,9 +2,6 @@
      HERO — White + Dark Purple Premium Header
 ═════════════════════════════════════════════════════════════════ -->
 
-<!-- Subtle animated purple background strip -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,30:4C1D95,65:7C3AED,100:A78BFA&height=70&section=header&animation=twinkling" width="100%"/>
-
 <div align="center">
 
 <a href="https://github.com/Tisha-Coding">
