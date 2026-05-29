@@ -24,35 +24,9 @@
 <!-- IDENTITY LINE -->
 
 <p>
-  <b>Full Stack Developer</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>AI-Integrated Apps</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>React</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Next.js</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Node.js</b>
+  <b>Full Stack Developer</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>AI-Integrated Apps</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Next.js</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Node.js</b>
 </p>
 
-<br/>
-<br/>
-
-<!-- CTA BUTTONS -->
-
-<a href="https://portfolio-six-rho-73.vercel.app/">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20Portfolio-5B21B6?style=for-the-badge&logoColor=white" height="34"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/tisha-3835a8319/">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tisha-Coding">
-  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" height="34"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Tisha_Leetcodeee/">
-  <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="34"/>
-</a>
-&nbsp;
-<a href="mailto:ttisha2528@gmail.com">
-  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
-</a>
-
-<br/>
 <br/>
 
 <!-- STATUS LINE -->
